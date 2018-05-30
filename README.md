@@ -4,3 +4,5 @@
 - derived from [https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino](https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino)
 - GPIO34 is changed from A0 for signal input
 - LED5 is faded by LEDC
+## timer interrpt code 
+- [https://github.com/espressif/arduino-esp32/blob/master/libraries/ESP32/examples/Timer/RepeatTimer/RepeatTimer.ino](https://github.com/espressif/arduino-esp32/blob/master/libraries/ESP32/examples/Timer/RepeatTimer/RepeatTimer.ino)
